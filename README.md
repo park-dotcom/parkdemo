@@ -1,3 +1,4 @@
 # parkdemo
-this is my first git project
-Author-Rohan mahato
+this is my first git project.
+<br>
+Author-Rohan mahato.
